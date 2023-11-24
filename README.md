@@ -1,2 +1,2 @@
 # mantak
-#Samo Škola
+- Samo Škola
